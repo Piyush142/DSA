@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.sourcelink.json
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/bin/Debug/net9.0/MaximumGCD
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/bin/Debug/net9.0/MaximumGCD.deps.json
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/bin/Debug/net9.0/MaximumGCD.runtimeconfig.json
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/bin/Debug/net9.0/MaximumGCD.dll
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/bin/Debug/net9.0/MaximumGCD.pdb
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.dll
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/refint/MaximumGCD.dll
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.pdb
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/MaximumGCD.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/Codeforces/MaximumGCD/obj/Debug/net9.0/ref/MaximumGCD.dll

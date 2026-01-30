@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.sourcelink.json
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/bin/Debug/net9.0/Watermelon
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/bin/Debug/net9.0/Watermelon.deps.json
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/bin/Debug/net9.0/Watermelon.runtimeconfig.json
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/bin/Debug/net9.0/Watermelon.dll
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/bin/Debug/net9.0/Watermelon.pdb
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.dll
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/refint/Watermelon.dll
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.pdb
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/Watermelon.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/Codeforces/Watermelon/obj/Debug/net9.0/ref/Watermelon.dll

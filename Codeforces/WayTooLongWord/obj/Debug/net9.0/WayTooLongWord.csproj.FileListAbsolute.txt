@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/bin/Debug/net9.0/WayTooLongWord
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/bin/Debug/net9.0/WayTooLongWord.deps.json
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/bin/Debug/net9.0/WayTooLongWord.runtimeconfig.json
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/bin/Debug/net9.0/WayTooLongWord.dll
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/bin/Debug/net9.0/WayTooLongWord.pdb
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.sourcelink.json
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.dll
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/refint/WayTooLongWord.dll
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.pdb
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/WayTooLongWord.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/Codeforces/WayTooLongWord/obj/Debug/net9.0/ref/WayTooLongWord.dll
