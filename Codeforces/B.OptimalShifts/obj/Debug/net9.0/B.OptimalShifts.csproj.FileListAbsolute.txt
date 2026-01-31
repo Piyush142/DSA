@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/bin/Debug/net9.0/B.OptimalShifts
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/bin/Debug/net9.0/B.OptimalShifts.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/bin/Debug/net9.0/B.OptimalShifts.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/bin/Debug/net9.0/B.OptimalShifts.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/bin/Debug/net9.0/B.OptimalShifts.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/refint/B.OptimalShifts.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/B.OptimalShifts.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/B.OptimalShifts/obj/Debug/net9.0/ref/B.OptimalShifts.dll
