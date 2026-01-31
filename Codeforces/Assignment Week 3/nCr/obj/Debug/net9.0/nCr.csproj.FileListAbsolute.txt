@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/bin/Debug/net9.0/nCr
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/bin/Debug/net9.0/nCr.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/bin/Debug/net9.0/nCr.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/bin/Debug/net9.0/nCr.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/bin/Debug/net9.0/nCr.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/refint/nCr.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/nCr.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/nCr/obj/Debug/net9.0/ref/nCr.dll

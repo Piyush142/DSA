@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/bin/Debug/net9.0/CountZeros
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/bin/Debug/net9.0/CountZeros.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/bin/Debug/net9.0/CountZeros.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/bin/Debug/net9.0/CountZeros.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/bin/Debug/net9.0/CountZeros.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/refint/CountZeros.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/CountZeros.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/CountZeros/obj/Debug/net9.0/ref/CountZeros.dll

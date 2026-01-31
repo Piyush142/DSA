@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/bin/Debug/net9.0/PrintFactors2
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/bin/Debug/net9.0/PrintFactors2.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/bin/Debug/net9.0/PrintFactors2.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/bin/Debug/net9.0/PrintFactors2.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/bin/Debug/net9.0/PrintFactors2.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/refint/PrintFactors2.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/PrintFactors2.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintFactors2/obj/Debug/net9.0/ref/PrintFactors2.dll

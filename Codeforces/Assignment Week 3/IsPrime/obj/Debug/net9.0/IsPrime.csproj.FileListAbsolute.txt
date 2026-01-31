@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/bin/Debug/net9.0/IsPrime
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/bin/Debug/net9.0/IsPrime.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/bin/Debug/net9.0/IsPrime.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/bin/Debug/net9.0/IsPrime.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/bin/Debug/net9.0/IsPrime.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/refint/IsPrime.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/IsPrime.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/IsPrime/obj/Debug/net9.0/ref/IsPrime.dll

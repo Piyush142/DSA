@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/bin/Debug/net9.0/PrintPrimes
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/bin/Debug/net9.0/PrintPrimes.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/bin/Debug/net9.0/PrintPrimes.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/bin/Debug/net9.0/PrintPrimes.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/bin/Debug/net9.0/PrintPrimes.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/refint/PrintPrimes.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/PrintPrimes.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/Assignment Week 3/PrintPrimes/obj/Debug/net9.0/ref/PrintPrimes.dll
