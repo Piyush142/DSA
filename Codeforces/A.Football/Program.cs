@@ -11,9 +11,6 @@ namespace FootBall{
                 return false;
             }
             for(int i = 0; i<pos.Length; i++){
-                if(count==7){
-                    return true;
-                }
 
                 if(int.Parse(pos[i].ToString()) == team){
                     count++;
@@ -22,6 +19,10 @@ namespace FootBall{
                     count = 1;
                     team = int.Parse(pos[i].ToString());
                 }
+
+                if(count==7){
+                    return true;
+                }
             }
 
             return false;
@@ -29,7 +30,7 @@ namespace FootBall{
 
         static void Main(){
             string positions = Console.ReadLine();
-            Console.WriteLine(Status(positions) ? "Yes" : "No");
+            Console.WriteLine(Status(positions) ? "YES" : "NO");
         }
     }
 }
