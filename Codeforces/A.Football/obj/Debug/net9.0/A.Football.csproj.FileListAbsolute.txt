@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/bin/Debug/net9.0/A.Football
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/bin/Debug/net9.0/A.Football.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/bin/Debug/net9.0/A.Football.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/bin/Debug/net9.0/A.Football.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/bin/Debug/net9.0/A.Football.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/refint/A.Football.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/A.Football.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/A.Football/obj/Debug/net9.0/ref/A.Football.dll
