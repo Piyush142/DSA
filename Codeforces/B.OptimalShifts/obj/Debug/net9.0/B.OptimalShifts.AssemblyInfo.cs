@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B.OptimalShifts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+271ac6f706a577b13a5deb5023ae698ca19ae542")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7440ed11f85ea96998d94a800f00674072135338")]
 [assembly: System.Reflection.AssemblyProductAttribute("B.OptimalShifts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B.OptimalShifts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

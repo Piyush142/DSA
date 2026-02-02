@@ -1,0 +1,15 @@
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.AssemblyInfoInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.AssemblyInfo.cs
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.csproj.CoreCompileInputs.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.sourcelink.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/bin/Debug/net9.0/2167
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/bin/Debug/net9.0/2167.deps.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/bin/Debug/net9.0/2167.runtimeconfig.json
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/bin/Debug/net9.0/2167.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/bin/Debug/net9.0/2167.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/refint/2167.dll
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.pdb
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/2167.genruntimeconfig.cache
+/Users/piyushchouhan/Projects/CompetitiveProgramming/DSA/Codeforces/2167/obj/Debug/net9.0/ref/2167.dll
