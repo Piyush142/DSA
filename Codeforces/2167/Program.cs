@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Incorrect Solution
 namespace YetAnotherArray{
     class Program{
         static long GCD(long a, long b){
